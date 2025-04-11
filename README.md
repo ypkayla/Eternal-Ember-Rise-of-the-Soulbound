@@ -50,5 +50,7 @@ This game was a side project that I’ve been working on for the past six months
     python main.py
 ```
 **Side Note:**
-*I hate me and this project*
-this is a small project, I have benn working on half a year
+
+-*I hate me and this project*
+
+-this is a small project, I have benn working on half a year
